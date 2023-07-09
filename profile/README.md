@@ -23,8 +23,5 @@ Check out our [Getting Started](https://github.com/Dev-In-A-Box-Solutions/.githu
 ## Contributing
 We welcome contributions from the community. Please check out our [Contributing Guide](https://github.com/Dev-In-A-Box-Solutions/.github/wiki/Contributing) for guidelines about how to proceed.
 
-## Contact Us
-Feel free to reach out if you have any questions or feedback. Please use our [Contact Form](https://devinaboxsolutions.com/contact) for all communications.
-
 ## License
 All open-source products developed by Dev-In-A-Box Solutions are released under the [MIT License](https://github.com/Dev-In-A-Box-Solutions/.github/blob/main/LICENSE). This does not apply to our commercial software solutions.
