@@ -16,10 +16,6 @@ We're extending the functionality of this product to also include other LLM prov
 ### TokenEvaluator.Net
 [TokenEvaluator.Net](https://github.com/Dev-In-A-Box-Solutions/TokenEvaluator.Net) is a utility to analyze text based on the token count/length. It uses AI provider's 'tiktoken' file for this purpose. This tool is essential for developers and users who need to manage and optimize their usage of AI services.
 
-## Getting Started
-
-Check out our [Getting Started](https://github.com/Dev-In-A-Box-Solutions/.github/wiki/Getting-Started) guide for more information on how to use our products.
-
 ## Contributing
 We welcome contributions from the community. Please check out our [Contributing Guide](https://github.com/Dev-In-A-Box-Solutions/.github/wiki/Contributing) for guidelines about how to proceed.
 
