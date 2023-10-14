@@ -1,4 +1,4 @@
-# Dev-In-A-Box Solutions
+# Dev In A Box Solutions
 
 Welcome to **Dev-In-A-Box Solutions**! We develop software to augment and enhance your experiences with state-of-the-art AI systems. Technically, also some other smaller productivty solutions.
 
