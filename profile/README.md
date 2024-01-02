@@ -13,6 +13,10 @@ GPT Powertoys is an essential toolset for users of OpenAI's GPT-3 and GPT-4 mode
 
 We're extending the functionality of this product to also include other LLM providers in the future as well as the addition of being able to utilise image generation models within the application.
 
+### PDF Creator from Images
+
+This application allows you to select as many images as you like and generate a PDF document from them. You can set a number of attributes such as Margin and Padding for the PDF Page and Images, the Page size, as well as the number of images per PDF page.
+
 ### TokenEvaluator.Net
 [TokenEvaluator.Net](https://github.com/Dev-In-A-Box-Solutions/TokenEvaluator.Net) is a utility to analyze text based on the token count/length. It uses AI provider's 'tiktoken' file for this purpose. This tool is essential for developers and users who need to manage and optimize their usage of AI services.
 
