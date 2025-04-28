@@ -2,7 +2,7 @@
 
 Welcome to **Dev-In-A-Box Solutions**! We develop software to augment and enhance your experiences with state-of-the-art AI systems. Technically, also some other smaller productivty solutions.
 
-![ChatGPT Image Apr 27, 2025, 01_53_53 PM](https://github.com/user-attachments/assets/8e1b6e5c-77bf-4a17-a2a0-fdaba23a716a)
+![header github](https://github.com/user-attachments/assets/947b4db7-e5b0-47b6-ac1d-42eddabed749)
 
 ## Our Products
 
